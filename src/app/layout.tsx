@@ -5,11 +5,11 @@ import { useEffect } from "react";
 import { useRouter } from "next/navigation";
 
 
-export default function RootLayout({children}:any) {
-  let y=useRouter()
+export default function RootLayout({children}:{ children: React.ReactNode }) {
+  const y=useRouter()
   useEffect(() => {
 y.push("home")
-  }, [])
+  }, [y])
   
   return (
     <>
