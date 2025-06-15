@@ -17,8 +17,15 @@ export default function Projects() {
           
  
   <div className=" w-[370px] h-[310px] overflow-hidden hove relative bg-transparent rounded-md">
-    <div className=" h-[260px] overflow-hidden">
-<img src="\freshcart.png" className=' h-[260px] w-full rounded-md  overflow-hidden object-cover'  alt="" /></div>
+    {/* <div className=" h-[260px] overflow-hidden hover:rounded-md">
+<img src="\freshcart.png" className=' h-[260px] w-full rounded  hover:rounded overflow-hidden object-cover'  alt="" /></div> */}
+<div className="h-[260px] overflow-hidden rounded-md hover:scale-105 transition-all duration-300">
+  <img
+    src="/freshcart.png"
+    alt=""
+    className="h-full w-full object-cover"
+  />
+</div>
 <h1 className='text-white text-3xl font-semibold capitalize m-2'>Ecommerce Website</h1>
 <div className="w-[370px] h-[260px] hov flex flex-col  justify-center items-center  relative    ">
 <svg class="w-20 h-20 text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
@@ -32,8 +39,14 @@ export default function Projects() {
   </div>
   
   <div className=" w-[370px] h-[310px] overflow-hidden hove relative bg-transparent rounded-md">
-    <div className=" h-[260px] overflow-hidden">
-<img src="\scss-img.png" className=' h-[260px] w-full rounded-md  overflow-hidden object-cover'  alt="" /></div>
+   
+<div className="h-[260px] overflow-hidden rounded-md hover:scale-105 transition-all duration-300">
+  <img
+    src="\scss-img.png"
+    alt=""
+    className="h-full w-full object-cover"
+  />
+</div>
 <h1 className='text-white text-3xl font-semibold capitalize m-2'>restaurant website</h1>
 <div className="w-[370px] h-[260px] hov flex flex-col justify-center items-center  relative    ">
 <svg class="w-20 h-20 text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
@@ -48,8 +61,14 @@ export default function Projects() {
   </div>
   
   <div className=" w-[370px] h-[310px] overflow-hidden text-left hove relative bg-transparent rounded-md">
-    <div className=" h-[260px] overflow-hidden">
-<img src="\portifolio.PNG" className=' h-[260px] w-full rounded-md  overflow-hidden object-cover'  alt="" /></div>
+   
+<div className="h-[260px] overflow-hidden rounded-md hover:scale-105 transition-all duration-300">
+  <img
+    src="\portifolio.PNG"
+    alt=""
+    className="h-full w-full object-cover"
+  />
+</div>
 <h1 className='text-white text-3xl font-semibold capitalize m-2'>portfolio website</h1>
 <div className="w-[370px] h-[260px] hov flex flex-col justify-center items-center  relative    ">
 <svg class="w-20 h-20 text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
@@ -62,8 +81,14 @@ export default function Projects() {
 </div>
   </div>
   <div className=" w-[370px] h-[310px] overflow-hidden hove relative bg-transparent rounded-md">
-    <div className=" h-[260px] overflow-hidden">
-<img src="\Family-bakery1.jpg" className=' h-[260px] w-full rounded-md  overflow-hidden object-cover'  alt="" /></div>
+   
+<div className="h-[260px] overflow-hidden rounded-md hover:scale-105 transition-all duration-300">
+  <img
+    src="\Family-bakery1.jpg"
+    alt=""
+    className="h-full w-full object-cover"
+  />
+</div>
 <h1 className='text-white text-3xl font-semibold capitalize m-2'>Bakery Website</h1>
 <div className="w-[370px] h-[260px] hov flex flex-col justify-center items-center  relative    ">
 <svg class="w-20 h-20 text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
@@ -75,8 +100,14 @@ export default function Projects() {
 </div>
   </div>
    <div className="w-[370px] h-[310px] overflow-hidden text-left hove relative bg-transparent rounded-md">
-    <div className="h-[260px] overflow-hidden">
-<img src="\mealify - Copy.jpg " className=' h-[260px]  w-full rounded-md  overflow-hidden object-cover'  alt="" /></div>
+  
+<div className="h-[260px] overflow-hidden rounded-md hover:scale-105 transition-all duration-300">
+  <img
+    src="\mealify - Copy.jpg "
+    alt=""
+    className="h-full w-full object-cover"
+  />
+</div>
 <h1 className='text-white text-3xl font-semibold capitalize m-2'>restaurant website</h1>
 <div className="w-[370px] h-[260px] hov flex flex-col justify-center items-center relative    ">
 <svg class="w-20 h-20 text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
