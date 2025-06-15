@@ -6,7 +6,7 @@ export default function About() {
     <div className='flex justify-center  items-center pt-28 '>
 <div className="flex  w-[80%] m-5 flex-wrap justify-around">
 <img src="/view-3d-man-using-laptop_23-2150709796.jpg" className='w-[500] h-[500]  object-cover' alt="" />
-<div className="w-[600] m-3">
+<div className="w-[600px] m-3">
 <h1 className='font-semibold text-4xl my-5 text-white ' >About Me</h1>
 <h3 className='font-light text-xl text-white' >
 I am a front-end web developer with a passion for creating interactive and responsive web applications.
