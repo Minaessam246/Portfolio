@@ -36,9 +36,9 @@ export default function Home() {
     <div className="flex homebtns justify-between w-96  items-center">
   <a href="#contact" className=' py-0 mt-2 px-11 but1 flex justify-center items-center  h-14 rounded-full   bg-gradient-to-br from-blue-700 to-primary text-lg text-white'>Hire Me</a>
   
-  <a 
+<a 
   class="inline-block w-full but2 sm:w-fit rounded-full border-4 border-blue-700 hover:bg-slate-800 text-white mt-3" 
-  href="/Desktop/Mina Essam.docx" 
+  href="\Mina Essam.pdf" 
   download>
   <span class="block bg-[#121212] hover:bg-slate-800 rounded-full px-7 py-3">
     Download CV
