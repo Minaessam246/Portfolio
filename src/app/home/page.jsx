@@ -51,7 +51,7 @@ export default function Home() {
     <img
         src="/person-playing-3d-video-games-device.jpg" 
         alt="mmm"
-        className="w-[350] h-[350] hidden xl:flex rounded-full mt-12 object-cover "/></div>
+        className="w-[350px] h-[350px] hidden xl:flex rounded-full mt-12 object-cover "/></div>
       
 </div>
 
